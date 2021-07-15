@@ -1,5 +1,5 @@
 # VisualMemory
-Wen GL 4
+Web GL 4
 
 Bugs when not played on full screen.
 
