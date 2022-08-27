@@ -1,4 +1,7 @@
 # VisualMemory
+
+Game made and compiled in Unity.
+
 Web GL 4
 
 Bugs when not played on full screen.
